@@ -1,29 +1,54 @@
-.cabecalho {
+.bordas {
+    background-color: red;
+    border: 2px solid green;
+
+    
+}
+
+.css {
+background-image:url("unicap.jpg") ; 
+}
 
 
+.vermelho {
+    background-color: red;
+    width: 700px;
+    padding: 0px;
+    margin: auto; 
+    
+  }
+
+  
+.verde {
+    background-color: green;
+    width: 700px;
+    padding: 25px;
+    margin: auto; 
+  }
+
+.fontes {
+    font-family: Arial,sans-serif;
+    text-decoration: underline;
+}
+
+.links {
+ font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+.minharotina{
+    background-color: rgb(22, 50, 100);
 
 }
 
-nav {
-
+.texto {
+    color: azure;
+    align-self: auto;
+    margin: 350px;
 }
 
-.secao {
-
- }
-
-article {
-
-}
-
-main {
-
-}
-
-aside {
-
-}
-
-footer {
-
+.cor-negrito {
+    color: orange;
 }
