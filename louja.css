@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+  }
+
+  .produto {
+    width: 200px;
+    height: 300px;
+    background-color: green;
+    margin: 1rem;
+    padding: 1rem;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .produto img {
+    width: 100%;
+  }
+
+  .produto h3 {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+  }
+
+  .produto p {
+    font-size: 1rem;
+  }
+
+  footer {
+    background-color: gray;
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+  }
